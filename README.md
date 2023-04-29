@@ -1,3 +1,3 @@
 # learn_git
 token
-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
+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
